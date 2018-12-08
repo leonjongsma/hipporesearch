@@ -1,0 +1,6 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/hipporesearch/hst:catalog:
+      jcr:primaryType: hst:catalog
+      /hipporesearch-catalog:
+        jcr:primaryType: hst:containeritempackage

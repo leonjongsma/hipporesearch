@@ -1,0 +1,7 @@
+group: 
+  name: hipporesearch
+  after: hippo-cms
+project: hipporesearch
+module: 
+  name: hipporesearch-repository-data-development
+  after: hipporesearch-repository-data-application

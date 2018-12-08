@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+  <projectNamespace>hipporesearch</projectNamespace>
+  <confirmParams>false</confirmParams>
+  <selectedProjectPackage>nl.tfe.hipporesearch</selectedProjectPackage>
+  <selectedBeansPackage>nl.tfe.hipporesearch.beans</selectedBeansPackage>
+  <selectedComponentsPackage>nl.tfe.hipporesearch.components</selectedComponentsPackage>
+  <selectedRestPackage>nl.tfe.hipporesearch.rest</selectedRestPackage>
+  <setupDone>false</setupDone>
+  <templateLanguage>freemarker</templateLanguage>
+  <useSamples>true</useSamples>
+  <extraTemplates>true</extraTemplates>
+</project>
